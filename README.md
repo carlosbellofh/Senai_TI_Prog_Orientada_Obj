@@ -32,6 +32,20 @@ public class Cadastro {
 	System.out.println("Modelo : "+c2.modelo);
 	System.out.println("Cor : "+c2.cor);
 	System.out.println("Ano : "+c2.ano);
+	
+	Carro c3 = new Carro();
+	c3.fabricante = "VW";
+	c3.modelo = "Fox";
+	c3.cor = "Vermelho";
+	c3.ano = 2016;
+	
+	System.out.println();
+	System.out.println("Carro 3:");
+	System.out.println("Fabricante: "+c3.fabricante);
+	System.out.println("Modelo : "+c3.modelo);
+	System.out.println("Cor : "+c3.cor);
+	System.out.println("Ano : "+c3.ano);
+	
 
 	}
 
