@@ -1,5 +1,4 @@
 # Senai_TI_Prog_Obj
-Java Programacao Orientada a Objeto
 package controller;
 
 import model.Carro;
@@ -20,10 +19,24 @@ public class Cadastro {
 	System.out.println("Modelo : "+c1.modelo);
 	System.out.println("Cor : "+c1.cor);
 	System.out.println("Ano : "+c1.ano);
+	
+	Carro c2 = new Carro();
+	c2.fabricante = "Chevrolet";
+	c2.modelo = "Camaro";
+	c2.cor = "Amarelo";
+	c2.ano = 2021;
+	
+	System.out.println();
+	System.out.println("Carro 2:");
+	System.out.println("Fabricante: "+c2.fabricante);
+	System.out.println("Modelo : "+c2.modelo);
+	System.out.println("Cor : "+c2.cor);
+	System.out.println("Ano : "+c2.ano);
 
 	}
 
 }
+
 //
 package model;
 
