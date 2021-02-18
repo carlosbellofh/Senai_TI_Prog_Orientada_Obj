@@ -15,7 +15,7 @@ Espero que esse repositório seja útil, de alguma forma, para o aprendizado dos
   - Escrever Project name: __01_HelloWorld__ e depois clicar em __Finish__
   - Criar o __packet controller__ abaixo de __src__
   - Criar a __classe HelloWorld__ abaixo do __packet controller__, ativar o método __Main__ e clicar em __Finish__
-  - Escrever o código para printar na tela a mensagem __Hello Word__: System.out.println("Hello World")
+  - Escrever o código para exibir na tela a mensagem __Hello Word__: System.out.println("Hello World")
   - Para executar é só clicar em Run HelloWord
  ### Codigo do Exemplo01 (HelloWord.java)
  
