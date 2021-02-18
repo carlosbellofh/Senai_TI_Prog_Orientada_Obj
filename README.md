@@ -1,4 +1,4 @@
-# Senai_TI_Prog_Obj
+# Senai_TI_Programação orientada a objetos
 package controller;
 
 import model.Carro;
