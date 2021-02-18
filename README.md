@@ -1,4 +1,4 @@
-# Senai_TI_Programação orientada a objetos
+# Senai-TI: Programação orientada a objetos
 ## Introdução a Java & Programação Orientada a Objetos
 
 ## Introdução
