@@ -25,7 +25,7 @@ Espero que esse repositório seja útil, de alguma forma, para o aprendizado dos
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 System.out.println("Hello World");
 	}
 
