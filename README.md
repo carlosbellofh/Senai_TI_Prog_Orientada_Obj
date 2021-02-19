@@ -9,7 +9,7 @@ Espero que esse repositório seja útil, de alguma forma, para o aprendizado dos
 
 ## Como executar os códigos Java (no Windows):
 
-- Baixe o aplicativo Eclipse IDE for Enterprise Java Developers através deste link [[Download Aqui]](https://www.eclipse.org/downloads/packages/release/2020-12/r/eclipse-ide-enterprise-java-developers) e instale-o normalmente no seu computador.
+- Baixe o aplicativo _Eclipse IDE for Enterprise Java Developers_ através deste link [[Download Aqui]](https://www.eclipse.org/downloads/packages/release/2020-12/r/eclipse-ide-enterprise-java-developers) e instale-o normalmente no seu computador.
 
 ***
 ### Exemplo01 (HelloWorld)
