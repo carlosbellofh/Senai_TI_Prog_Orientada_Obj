@@ -10,7 +10,8 @@ Espero que esse repositório seja útil, de alguma forma, para o aprendizado dos
 ## Como executar os códigos Java (no Windows):
 
 - Baixe o aplicativo Eclipse IDE for Enterprise Java Developers através deste link [[Download Aqui]](https://www.eclipse.org/downloads/packages/release/2020-12/r/eclipse-ide-enterprise-java-developers) e instale-o normalmente no seu computador.
-- Exemplo01 (HelloWorld)
+
+### Exemplo01 (HelloWorld)
   - O Exemplo01 mostra na tela a mensagem __Hello Word__
   - Abrir o aplicativo Eclipse IDE, dentro de FILE, Criar NEW > Java Project.
   - Escrever Project name: __01_HelloWorld__ e depois clicar em __Finish__
@@ -33,7 +34,7 @@ System.out.println("Hello World");
 }
 ```
 ***
-- Exemplo02 (ExemploGUI)
+### Exemplo02 (ExemploGUI)
   - O Exemplo02 mostra a interface gráfica do usuário com uma pergunta na tela.
   - Abrir o aplicativo Eclipse IDE, dentro de FILE, Criar NEW > Java Project.
   - Escrever Project name: __02_ExemploGUI__ e depois clicar em __Finish__
