@@ -11,7 +11,7 @@ Espero que esse repositório seja útil, de alguma forma, para o aprendizado dos
 
 - Baixe o aplicativo Eclipse IDE for Enterprise Java Developers através deste link [[Download Aqui]](https://www.eclipse.org/downloads/packages/release/2020-12/r/eclipse-ide-enterprise-java-developers) e instale-o normalmente no seu computador.
 - Exemplo01 (HelloWorld)
-  - Abra o aplicativo Eclipse IDE, dentro de FILE, Criar NEW > Java Project.
+  - Abrir o aplicativo Eclipse IDE, dentro de FILE, Criar NEW > Java Project.
   - Escrever Project name: __01_HelloWorld__ e depois clicar em __Finish__
   - Criar o __packet controller__ abaixo de __src__
   - Criar a __classe HelloWorld__ abaixo do __packet controller__, ativar o método __Main__ e clicar em __Finish__
