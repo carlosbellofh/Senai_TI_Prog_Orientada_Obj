@@ -62,6 +62,7 @@ public class Exemplo {
 }
 
 ```
+***
 ### Exemplo03 (ExemploNEW)
   - O Exemplo03 mostra o uso do padrão MVC com a utilização dos pacotes model(classe Usuario) e controller (classe Cadastro) e o operador NEW.
   - Abrir o aplicativo Eclipse IDE, dentro de FILE, Criar NEW > Java Project.
