@@ -42,7 +42,7 @@ System.out.println("Hello World");
   - Criar a __classe Exemplo__ abaixo do __packet controller__, ativar o método __Main__ e clicar em __Finish__
   - Escrever o código para exibir na tela as mensagens _SENAI - Exemplo GUI_ e _Quer aumento de salário_
   - Para executar é só clicar em Run Exemplo
- ### Codigo do 02_ExemploGUI (Exemplo.java)
+ ### Codigo do Exemplo02 (Exemplo.java)
  
 ```
 package controller;
