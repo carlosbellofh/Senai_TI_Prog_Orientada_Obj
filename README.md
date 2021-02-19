@@ -11,6 +11,7 @@ Espero que esse repositório seja útil, de alguma forma, para o aprendizado dos
 
 - Baixe o aplicativo Eclipse IDE for Enterprise Java Developers através deste link [[Download Aqui]](https://www.eclipse.org/downloads/packages/release/2020-12/r/eclipse-ide-enterprise-java-developers) e instale-o normalmente no seu computador.
 - Exemplo01 (HelloWorld)
+  - O Exemplo01 mostra na tela a mensagem __Hello Word__
   - Abrir o aplicativo Eclipse IDE, dentro de FILE, Criar NEW > Java Project.
   - Escrever Project name: __01_HelloWorld__ e depois clicar em __Finish__
   - Criar o __packet controller__ abaixo de __src__
@@ -31,4 +32,29 @@ System.out.println("Hello World");
 
 }
 ```
-continua...
+***
+- Exemplo02 (ExemploGUI)
+  - O Exemplo02 mostra a interface gráfica do usuário com uma pergunta na tela.
+  - Abrir o aplicativo Eclipse IDE, dentro de FILE, Criar NEW > Java Project.
+  - Escrever Project name: __02_ExemploGUI__ e depois clicar em __Finish__
+  - Criar o __packet controller__ abaixo de __src__
+  - Criar a __classe Exemplo__ abaixo do __packet controller__, ativar o método __Main__ e clicar em __Finish__
+  - Escrever o código para exibir na tela as mensagens _SENAI - Exemplo GUI_ e _Quer aumento de salário_
+  - Para executar é só clicar em Run Exemplo
+ ### Codigo do 02_ExemploGUI (Exemplo.java)
+ 
+```
+package controller;
+
+public class Exemplo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		javax.swing.JOptionPane.showMessageDialog(null, "SENAI", "Exemplo GUI", 1);
+		javax.swing.JOptionPane.showConfirmDialog(null, "Quer aumento de salário?", "Salário",
+				javax.swing.JOptionPane.YES_NO_OPTION);
+	}
+
+}
+
+```
